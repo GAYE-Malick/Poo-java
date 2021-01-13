@@ -1,5 +1,5 @@
 # Poo-java
-Projte  de Poo sur des Jeux
+Projet  de Poo sur des Jeux
 Projet Programmation Orienté Objet:Université de Caen, Normandie 
 
 Ce projet, sous forme de Controle Continu, a été réalisé par les étudiants dont les noms suivent:
